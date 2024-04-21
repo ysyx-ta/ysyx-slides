@@ -1,0 +1,8 @@
+00 Idle
+01 Advance
+10 Stop
+11 Reset
+# 0 Idle
+# 1 Advance
+# 2 Stop
+# 3 Reset

@@ -1,0 +1,9 @@
+# SDRAM commands
+7 ?red?CMD_NOP       
+3 ?orange?CMD_ACTIVE    
+5 ?yellow?CMD_READ      
+4 ?green?CMD_WRITE     
+6 ?blue?CMD_TERMINATE 
+2 ?Cyan?CMD_PRECHARGE 
+1 ?purple?CMD_REFRESH   
+0 CMD_LOAD_MODE 

@@ -1,0 +1,36 @@
+$timescale 1ms $end
+$comment min_time 0 $end
+$comment max_time 8 $end
+$comment max_seqn 1 $end
+$scope module fxh $end
+$comment seqn 1 fxh.state[1:0] $end
+$comment seqn 2 fxh.cmd[3:0] $end
+$var wire 2 1 state[1:0] $end
+$var wire 4 2 cmd[3:0] $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+#0
+b00 1
+b01110111 2
+$end
+#1
+b01 1
+b0011 2
+#2
+b10 1
+b0101 2
+#3
+b11 1
+b0100 2
+#4
+bz 1
+b0110 2
+#5
+b0010 2
+#6
+b0001 2
+#7
+b0000 2
+#8
+$comment data_end $end

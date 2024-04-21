@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Apr 20 12:41:34 2024
+[*]
+[dumpfile] "./fxh.vcd"
+[dumpfile_mtime] "Sat Apr 20 08:52:50 2024"
+[dumpfile_size] 443
+[savefile] "./filter_file_cmd.gtkw"
+[timestart] 0
+[size] 2560 1353
+[pos] -1 -1
+*-0.366336 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 314
+[signals_width] 193
+[sst_expanded] 1
+[sst_vpaned_height] 324
+@22
+fxh.cmd[3:0]
+@2023
+^2 ./cmd.trans
+fxh.cmd[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
