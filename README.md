@@ -1,1 +1,11 @@
 # ysyx-slides
+
+## 2024.04.21
+
++ [NPC/NEMU 的 CTRL+C -- 张承译](./2024.04.21/NPC_NEMU的CTRL+C-张承译.pptx)
++ [GTKWave 技巧 -- 翁江杰](./2024.04.21/gtkwave技巧-翁江杰/)
++ [NPC 的 FPGA 部署经验 -- 叶永檬](./2024.04.21/NPC的FPGA部署经验-叶永檬.pdf)
+
+## 2024.04.07
+
++ [NEMU/NPC 启动 Linux nommu -- 李隆轩](./2024.04.07/ysyx_23060014-李隆轩.pdf)
