@@ -3,6 +3,7 @@
 ## 2024.05.19
 
 + [Chisel 入门及 Chisel Decoder 使用 -- 王锐](./2024.05.19/Chisel入门及ChiselDecoder使用-王锐.pdf)
++ [现代 Neovim 折腾指北 -- 龚开宸](./2024.05.19/现代NeoVim折腾指北-龚开宸.pdf)
 
 ## 2024.05.05
 
