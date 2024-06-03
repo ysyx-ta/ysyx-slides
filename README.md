@@ -1,5 +1,9 @@
 # ysyx-slides
 
+## 2024.06.02
+
++ [GDB 远程调试 NEMU 和 NPC -- 李心杨](./2024.06.02/GDB远程调试NEMU和NPC-李心杨.pdf)
+
 ## 2024.05.19
 
 + [Chisel 入门及 Chisel Decoder 使用 -- 王锐](./2024.05.19/Chisel入门及ChiselDecoder使用-王锐.pdf)
