@@ -1,5 +1,9 @@
 # ysyx-slides
 
+## 2024.07.28
+
++ [CacheSim简单实现思路 -- 诸晨冬](./2024.07.28/CacheSim简单实现思路-诸晨冬.pdf)
+
 ## 2024.07.14
 
 + [拥有更强大的生产力 -- 庞业铭](https://sipym.github.io/PPT_PAGES/)
